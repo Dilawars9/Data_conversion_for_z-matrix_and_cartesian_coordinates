@@ -1,6 +1,6 @@
 ZMT to Cartesian Conversion (parameters) Tool
 
-This Python script allows you to convert Z-Matrix (ZMT) coordinates to Cartesian coordinates. It calculates bond lengths, angles, and dihedral angles from the Z-Matrix and XYZ files.
+This Python script allows you to convert parameters for Z-Matrix (ZMT) coordinates and Cartesian coordinates. It calculates bond lengths, angles, and dihedral angles from the Z-Matrix and XYZ files.
 
 Table of Contents:
 1. Prerequisites
